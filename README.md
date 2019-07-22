@@ -3,7 +3,7 @@
  <img height="500px" src="https://i.imgur.com/oAFZlK4.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Leaf LMS</h3>
+<h3 align="center">Merkles Puzzle</h3>
 
 <div align="center">
 
