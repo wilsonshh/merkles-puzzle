@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/lib/CryptoLib.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/PuzzleWriter.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/PuzzleBuilder.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/core/PuzzleCracker.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/PuzzleRandomized.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/PuzzleReader.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/core/PuzzleGenerator.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/KeyBuilder.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/DuplicateRemover.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/ui/MerklesPuzzleView.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/util/PuzzleSelector.java</file>
+            <file>file:/Users/Administrator/NetBeansProjects/MerklesPuzzle/src/lib/DES.java</file>
+        </group>
+    </open-files>
+</project-private>
