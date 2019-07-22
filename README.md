@@ -17,8 +17,8 @@
 ---
 
 <p align="center"> 
-Encrytion tool can be used to encrypt and decrypt messages.
-    <br> 
+Encryption tool that can be used to encrypt and decrypt messages. 
+<br> 
 </p>
 
 ## 📝 Table of Contents
