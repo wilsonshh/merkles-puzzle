@@ -8,8 +8,8 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/wilsonshrestha/leaf-lms.svg)](https://github.com/wilsonshrestha/leaf-lms/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wilsonshrestha/leaf-lms.svg)](https://github.com/wilsonshrestha/leaf-lms/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/wilsonshrestha/leaf-lms.svg)](https://github.com/wilsonshrestha/merkles-puzzle/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wilsonshrestha/leaf-lms.svg)](https://github.com/wilsonshrestha/merkles-puzzle/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -17,7 +17,7 @@
 ---
 
 <p align="center"> 
-Leaf is a learning management system that allows you to  administer, track, report, and delivery of educational courses, training programs, or learning and development programs.
+Encrytion tool can be used to encrypt and decrypt messages.
     <br> 
 </p>
 
@@ -26,15 +26,15 @@ Leaf is a learning management system that allows you to  administer, track, repo
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Leaf LMS can be used to deliver and manages content.
+
+This tool simulates Merkels Puzzle, an early construction for a public-key cryptosystem, a protocol devised by Ralph Merkle in 1974 and published in 1978. It allows two parties to agree on a shared secret by exchanging messages, even if they have no secrets in common beforehand.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ### Prerequisites
-- Written in java
+- Written in Java
 - No installation or compiler necessary - just use the jar file
 - Design pattern
 - Works on Mac, Linux and Windows
